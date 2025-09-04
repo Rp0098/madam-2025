@@ -69,7 +69,7 @@ document.getElementById("By").onclick = function() {
 
 async function menuju(){
   await swals.fire('Yay!', 'And here comes another birthday surprise for you!', 'success');
-  window.location = "./love/page2.html";
+  window.location = "./love/index2.html";
 }
 
 vketik1 = kalimat.innerHTML;
@@ -233,3 +233,4 @@ function checkslov() {
     setTimeout(aktipesan2, 400);
   }
 }
+
